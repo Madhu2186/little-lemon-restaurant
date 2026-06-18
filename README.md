@@ -39,6 +39,18 @@ The **Little Lemon Restaurant Website** is designed to provide customers with an
 
 ---
 
+## 📚 Learning Outcomes
+
+Through this project, I gained hands-on experience in:
+
+- Building responsive web pages using HTML5 and CSS3
+- Implementing interactive features with JavaScript
+- Creating a mobile-friendly navigation menu
+- Designing modern user interfaces
+- Working with Git and GitHub for version control
+  
+---
+
 ## 📁 Project Structure
 
 ```

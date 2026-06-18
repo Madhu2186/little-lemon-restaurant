@@ -6,7 +6,7 @@ A modern, responsive restaurant website built using **HTML5, CSS3, and JavaScrip
 
 ## 📌 Project Overview
 
-The **Little Lemon Restaurant Website** is designed to provide customers with an engaging online experience. It includes information about the restaurant, menu items, gallery, testimonials, reservation form, contact information, and responsive navigation.
+The Little Lemon Restaurant Website is a modern, responsive web application developed using HTML, CSS, and JavaScript. It provides an engaging user experience with an interactive menu, online reservation form, image gallery, testimonials, contact section, and responsive navigation. The project demonstrates front-end web development skills, including responsive design, animations, and user-friendly interfaces.
 
 ---
 
@@ -34,8 +34,10 @@ The **Little Lemon Restaurant Website** is designed to provide customers with an
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- Font Awesome
+- Font Awesome Icons
 - Google Fonts
+- Git
+- GitHub
 
 ---
 
@@ -85,7 +87,7 @@ Little-Lemon/
 1. Download or clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/little-lemon-restaurant.git
+git clone https://github.com/Madhu2186/little-lemon-restaurant.git
 ```
 
 2. Open the project folder.
@@ -100,15 +102,17 @@ No additional software or installation is required.
 
 ### Home Page
 
-(Add screenshot here)
+<img width="1907" height="921" alt="image" src="https://github.com/user-attachments/assets/9b8842fe-15ca-4be5-8928-11be1490e0a7" />
 
 ### Menu Section
 
-(Add screenshot here)
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/c9cbcbcd-cd9c-4e32-b7df-8441e7cb07ab" />
+
 
 ### Reservation Page
 
-(Add screenshot here)
+<img width="1915" height="911" alt="image" src="https://github.com/user-attachments/assets/7095db29-5666-4957-89d9-9e8ba23ef1be" />
+
 
 ---
 

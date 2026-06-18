@@ -104,15 +104,21 @@ No additional software or installation is required.
 
 <img width="1907" height="921" alt="image" src="https://github.com/user-attachments/assets/9b8842fe-15ca-4be5-8928-11be1490e0a7" />
 
+### About Page
+
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/282bc1bd-9885-4dd0-bbed-20f24965c72f" />
+
 ### Menu Section
 
 <img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/c9cbcbcd-cd9c-4e32-b7df-8441e7cb07ab" />
-
 
 ### Reservation Page
 
 <img width="1915" height="911" alt="image" src="https://github.com/user-attachments/assets/7095db29-5666-4957-89d9-9e8ba23ef1be" />
 
+### contact Page
+
+<img width="1907" height="901" alt="image" src="https://github.com/user-attachments/assets/fe12e3f5-5f49-4d3f-a7e8-6f61cd06ca37" />
 
 ---
 
